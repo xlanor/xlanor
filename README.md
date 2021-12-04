@@ -6,7 +6,9 @@ Currently, I am most active in the **golang** community, where I actively seek o
 
 In addition, my free time is also mostly spent mentoring my friends in the basics of web development.
 
-I work at a startup company, [AcePointer](https://acepointer.sg), where I encounter challenging problems and get to work with modern technologies such as Kubernetes
+I work at a startup company, [AcePointer](https://acepointer.sg), where I encounter challenging problems and get to work with modern technologies such as Kubernetes.
+
+Currently, I'm hosting a [linux mirror](https://mirror.jingk.ai/) on my home network/infrastructure. This mirror supports http, https, and rsync.
 
 Previously, I maintained several following OSS projects.
 
