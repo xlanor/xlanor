@@ -1,19 +1,5 @@
-Devops engineer, with a background in fullstack development.
+Linux mirror - [here](https://mirror.jingk.ai)
 
-I am fluent in `go`, `python`, `node`, and have varying levels of experience in `java` and `c++`.
-
-Currently, I am most active in the **golang** community, where I actively seek out projects where I can contribute with my skillset. I strongly believe in the importance of Open Source Software - OSS taught me everything that I know today, and I believe in giving back to the community.
-
-In addition, my free time is also mostly spent mentoring my friends in the basics of web development.
-
-I use the [Framework](https://frame.work/) laptop as a daily driver - Giving it a shoutout here, support the right to repair and reusabe components!!!
-
-Currently, I'm hosting a [linux mirror](https://mirror.jingk.ai/) on my home network/infrastructure. This mirror supports http, https, and rsync.
-
-Previously, I maintained several following OSS projects.
-
-- [Hera](https://github.com/xlanor/SIM-UoW-Timetable-bot), a scraper used by over 300 students at its peak to manage timetables instead of using SIMConnect's slow and non-responsive website.
-- [Minvera](https://github.com/xlanor/Minvera), a reddit bot to bypass premium news articles.
-- [Janus](https://github.com/xlanor/Janus), a telegram butler bot that would handle message movements between related telegram groups.
+I like infrastructure.
 
 [![xlanor's github stats](https://github-readme-stats.vercel.app/api?username=xlanor&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
