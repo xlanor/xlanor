@@ -4,4 +4,4 @@ More about me - [here](https://jingk.ai)
 
 I like infrastructure.
 
-@rivendell on OFTC, @recursion on libera
+@rivendell on OFTC, @recursion on libera (+R ONLY)
